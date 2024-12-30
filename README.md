@@ -47,8 +47,8 @@ The `Editor.jsx` file serves as the core of this project and includes the follow
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/hxbeeb11/MyNotebook.git
+   cd MyNotebook
    ```
 
 2. **Install Dependencies**:
